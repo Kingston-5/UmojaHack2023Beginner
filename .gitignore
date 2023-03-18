@@ -1,0 +1,7 @@
+/catboost_info/
+/.ipynb_checkpoints/
+BaselineSubmission.csv
+SampleSubmission.csv
+submission.csv
+Test.csv
+Train.csv
